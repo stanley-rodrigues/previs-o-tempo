@@ -15,7 +15,7 @@ O projeto foi feito com essas 3 tecnologias.
 - [x] Html
 - [x] Css
 - [x] JavaScript<br><br>
-E fazendo consulta na API <a>https://openweathermap.org/</a>
+E fazendo consulta na API <a target="_blank">https://openweathermap.org/</a>
 
 ##  desenvolvedor
 
