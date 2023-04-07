@@ -3,7 +3,7 @@ Com essa aplicação você pode buscar a previsão do tempo atual numa cidade de
 
 # Aplicação
 
-<img src="./assets/mobile.gif" alt="convert Bitcoin" width="400;"/>
+<img src="./assets/mobile.gif" alt="convert Bitcoin" width="400";/>
 
 
 
