@@ -3,7 +3,7 @@ Com essa aplicação você pode buscar a previsão do tempo atual numa cidade de
 
 # Aplicação
 
-<img height="350"src="./assets/mobile.gif" alt="convert Bitcoin" />
+<img height="350" src="https://github.com/stanley-rodrigues/previsao-tempo/blob/main/assets/mobile.gif?raw=true" />
 
 
 
@@ -15,7 +15,9 @@ O projeto foi feito com essas 3 tecnologias.
 - [x] Html
 - [x] Css
 - [x] JavaScript<br><br>
-E fazendo consulta na API <a target="_blank">https://openweathermap.org/</a>
+ Executando requisições na API <a target="_blank">https://openweathermap.org/</a>
+
+ ## <a href="https://previsaoagora.netlify.app/" target="_blank">Utilize a aplicão</a>
 
 ##  desenvolvedor
 
